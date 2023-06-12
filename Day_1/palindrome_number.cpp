@@ -25,6 +25,7 @@ public:
            i++;
            x = x/10;
           // cout<<x<<endl;
+            
         //cout<<num<<endl;
         }
         //cout<<num<<endl;
