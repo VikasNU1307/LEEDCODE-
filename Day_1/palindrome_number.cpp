@@ -6,6 +6,7 @@ public:
     
     bool isPalindrome(int y) {
         int x = y;
+        
         int num=0,i=0;
         if(x>0){
           
