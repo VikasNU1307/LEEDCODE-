@@ -16,6 +16,7 @@ public:
            z = x%10;
            //cout<<"z:"<<z<<endl;
            //cout<<"num:"<<num<<endl;
+            
            num = (num*10)+z;
            // cout<<"powerf:"<<pow(10,i)<<endl;
           // cout<<num<<endl;
