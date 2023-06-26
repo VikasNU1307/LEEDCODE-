@@ -11,7 +11,7 @@ class Solution{
        
        if((65<=s[i])&& (s[i]<=90)){
         char ch = s[i];
-        ch = ch -'A' + 'a';
+        ch = ch -'A' + 'a'; 
         low += ch;
        }
        else{
