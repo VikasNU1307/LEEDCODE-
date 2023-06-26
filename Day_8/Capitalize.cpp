@@ -5,7 +5,7 @@ using namespace std;
 class Solution{
   public:
   string low (string s){
-    //cout<<" hi"<<endl;
+    //cout<<" hi"<<endl; 
     string low = "";
     for(int i = 0; i<s.size(); i++){
        
